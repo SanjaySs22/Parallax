@@ -1,0 +1,131 @@
+#pic1{
+    border: 1px solid black;
+    height: 750px;
+    background-image: url(https://jolly-kalam-23776e.netlify.app/parallaxsite/img/image1.jpg); 
+    background-attachment: fixed;
+    background-size: 100% 100%;   
+}
+#h1{
+    border: 1px solid black;
+    width: 400px;
+    margin-left: 550px;
+    padding: 10px;
+    margin-top: 275px;
+    background-color: black;
+    color: white;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+}
+#para1{
+    height: 250px;
+    padding: 50px;
+}
+#h2{
+    text-align: center;
+    font-family: "Lato", sans-serif;
+}
+#con1{
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    
+}
+#pic2{
+    height: 400px;
+    background-image: url(https://jolly-kalam-23776e.netlify.app/parallaxsite/img/image2.jpg);
+    background-attachment: fixed;
+}
+#h3{
+    text-align: center;
+    padding-top: 200px;
+    color: aliceblue;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    font-size: 27px;
+    letter-spacing: 8px;
+}
+#para2{
+    height: 200px;
+    padding: 50px;
+    background-color: black;
+    color: aliceblue;
+    margin: 0px;
+}
+#h4{
+    text-align: center;
+    font-family: "Lato", sans-serif;
+}
+#con2{
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    margin: 0px;
+    
+}
+#pic3{
+    height: 400px;
+    background-image: url(https://jolly-kalam-23776e.netlify.app/parallaxsite/img/image3.jpg);
+    background-attachment: fixed;
+    margin: 0px;
+}
+#h5{
+    text-align: center;
+    padding-top: 200px;
+    color: aliceblue;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    font-size: 27px;
+    letter-spacing: 8px;
+    margin: 0px;
+}
+#para3{
+    height: 200px;
+    padding: 50px;
+    background-color: black;
+    color: aliceblue;
+}
+#h6{
+    text-align: center;
+    font-family: "Lato", sans-serif;
+}
+#con3{
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    
+}
+#pic4{
+    border: 1px solid black;
+    height: 750px;
+    background-image: url(https://jolly-kalam-23776e.netlify.app/parallaxsite/img/image1.jpg);
+    background-attachment: fixed;
+    background-size: 100% 100%;   
+}
+#h7{
+    border: 1px solid black;
+    width: 350px;
+    margin-left: 550px;
+    padding: 10px;
+   margin-top: 275px;
+    background-color: black;
+    color: white;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+}
+body{
+    opacity: 0.70;
+    margin: 0px;
+}
